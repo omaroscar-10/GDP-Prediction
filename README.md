@@ -1,5 +1,4 @@
 ## QUANTIFYING THE IMPACT OF GDP GROWTH ON ACHIEVING A 70-YEAR LIFE EXPECTANCY IN SUB-SAHARAN AFRICA ​
-Group members: Omar Aguirre, Jorge Martinez, Matthew Rand, Shameema Shahulhameed
 
 ## Description
 This project uses a wide arrange of data from the World Bank, the World Health Organization (WHO), and World Development Indicators (WDI) to determine the required level of Gross Domestic Product (GDP) that a sub-Saharan African nation must attain for the average life expectancy in their country to reach the world median of 70 years of age. Our mission is to provide a roadmap for informed policymaking, helping to elevate average life expectancy while considering factors like emissions, economic activity, financial transactions, and healthcare access.
